@@ -26,6 +26,7 @@ int main() {
 	shorting(List, taille);
 	for (int i=0; i<taille ; i++) printf("%d \t",List[i]);
 
+	printf("Nono et les 40 voleurs");
 	/*
     int element = 9;
     int result = binary_search(element, List, 0, taille - 1);
@@ -37,6 +38,3 @@ int main() {
 	*/
 	return 0;
 }
-
-
-
